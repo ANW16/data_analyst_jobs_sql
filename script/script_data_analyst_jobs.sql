@@ -7,7 +7,7 @@ FROM data_analyst_jobs;*/
 /*SELECT * 
 FROM data_analyst_jobs
 LIMIT 10;*/
--- Answer: XTO Land Data Analyst.
+-- Answer: ExxonMobile.
 
 -- Q3a.
 /*SELECT COUNT(*)
